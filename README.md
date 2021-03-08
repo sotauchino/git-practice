@@ -3,3 +3,4 @@
 ローカルリポで変更  
 <<<<<<< HEAD
 conflict-remote上で更新
+rebase用
